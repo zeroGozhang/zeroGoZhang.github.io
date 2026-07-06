@@ -10,8 +10,6 @@ tags:
     - cc-switch
     - glm
     - codex
-    - 语义化版本
-    - 版本控制
 ---
 
 
